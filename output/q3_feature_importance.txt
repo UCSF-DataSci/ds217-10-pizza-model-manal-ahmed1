@@ -1,0 +1,9 @@
+=== Gradient Boosting Feature Importance ===
+MedInc: 0.5924
+AveOccup: 0.1271
+Longitude: 0.1133
+Latitude: 0.0963
+HouseAge: 0.0356
+AveRooms: 0.0248
+AveBedrms: 0.0067
+Population: 0.0038
